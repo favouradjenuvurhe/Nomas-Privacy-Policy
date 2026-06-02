@@ -98,7 +98,9 @@ We may update this Privacy Policy from time to time. Updates will be posted with
 If you have any questions about this Privacy Policy, contact us at:
 
 **Email:** favour-amaaavl@outlook.com 
+
 **Call:** +2349064873505 
+
 **App Name:** Nomas  
 
 ---
