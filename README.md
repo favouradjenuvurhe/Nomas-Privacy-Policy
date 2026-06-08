@@ -1,8 +1,8 @@
-# Privacy Policy for Nomas
+# Privacy Policy for Raenies (formerly Nomas)
 
-**Last Updated:** June 2, 2026
+**Last Updated:** June 8, 2026
 
-Nomas ("we", "our", or "us") operates the Nomas mobile application ("App"). This Privacy Policy explains how we collect, use, and protect your information when you use our services.
+Raenies (formerly Nomas) ("we", "our", or "us") operates the Raenies mobile application ("App"). This Privacy Policy explains how we collect, use, and protect your information when you use our services.
 
 By using Nomas, you agree to the practices described in this policy.
 
@@ -42,7 +42,7 @@ We use your information to:
 
 ## 3. Third-Party Services
 
-Nomas uses secure third-party payment and service providers to process transactions.
+Raenies uses secure third-party payment and service providers to process transactions.
 
 These providers may collect and process data according to their own privacy policies.
 
@@ -83,7 +83,7 @@ You have the right to:
 
 ## 7. Children’s Privacy
 
-Nomas is not intended for children under the age of 13. We do not knowingly collect personal data from children.
+Raenies is not intended for children under the age of 13. We do not knowingly collect personal data from children.
 
 ---
 
@@ -101,12 +101,12 @@ If you have any questions about this Privacy Policy, contact us at:
 
 **Call:** +2349064873505 
 
-**App Name:** Nomas  
+**App Name:** Raenies (formerly Nomas)  
 
 ---
 
 ## 10. Disclaimer
 
-Nomas is a digital payment platform that uses third-party service providers to process transactions. We are not a bank or licensed financial institution.
+Raenies is a digital payment platform that uses third-party service providers to process transactions. We are not a bank or licensed financial institution.
 
 All payments are handled securely through trusted external providers.
